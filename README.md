@@ -8,7 +8,7 @@
 
 ## EXECUTANDO O PROJETO:
 1. **Iniciar o Jogo:**
-   - Execute o arquivo `CODIGO.bat`.
+   - Clique no `CODIGO.bat` para executar.
    - A tela de boas-vindas será exibida, explicando o objetivo do jogo.
 
 2. **Primeiro Palpite:**
